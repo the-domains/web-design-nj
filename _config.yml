@@ -1,7 +1,7 @@
 name: Web Design NJ
 favicon: null
-layout_spectrum: 0.1347212945111096
-typography_spectrum: 0.8322932024020702
+layout_spectrum: 0.50263
+typography_spectrum: 0.62481
 title: The DIY Web Guy - Web Design NJ
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.4845952419564128
+    - '#00c2ff'
+    - '#333333'
+    - '#ff6908'
+    - '#ffffff'
+    - '#9b9b9b'
+  brandStrength: 0.5
   lightness: 0.11997056496329606
-  saturation: 0.24824686371721327
+  saturation: 0.25
   rhythmicContrast: 0.21871889336034656
 purpose: []
