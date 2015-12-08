@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Web Design NJ]]></title>
+        <description><![CDATA[Web Design NJ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Dec 2015 17:00:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Web Design NJ]]></title>
+            <description><![CDATA[<article><h1>Web Design NJ</h1><p>The DIY Web Guy, Web Design NJ</p></article>]]></description>
+            <link>undefinedweb-design-nj/index.html</link>
+            <guid isPermaLink="false">6f087002-bf63-439d-b605-8e7419001fa4</guid>
+            <pubDate>Tue, 08 Dec 2015 17:00:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
